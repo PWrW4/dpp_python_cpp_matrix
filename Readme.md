@@ -1,1 +1,1 @@
-c++ library project: `https://bitbucket.org/pwr_w4_inf/dpp_python_matrixlibcpp`
+c++ library project: `https://bitbucket.org/pwr_w4_inf/dpp_python_cpp_matrix_lib_cpp`
