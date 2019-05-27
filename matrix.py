@@ -3,7 +3,7 @@ import os
 
 
 def main():
-    matrix = ct.cdll.LoadLibrary(r"H:\Workspace\Study\dpp_python_matrixlib\dpp_python_matrixLibCPP.dll")
+    matrix = ct.cdll.LoadLibrary("dpp_python_matrixLibCPP.dll")
 
     FLOAT = ct.c_float
     PFLOAT = ct.POINTER(FLOAT)
@@ -40,6 +40,8 @@ def main():
     for i in range(size):
         for j in range(size):
             print("Wynik " + str(i) + str(j) + ": " + str(ret[i][j]))
+
+    input()
 
 
 if __name__ == "__main__":
