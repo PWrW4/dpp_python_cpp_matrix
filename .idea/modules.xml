@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dpp_python_matrixlib.iml" filepath="$PROJECT_DIR$/.idea/dpp_python_matrixlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dpp_python_cpp_matrix.iml" filepath="$PROJECT_DIR$/.idea/dpp_python_cpp_matrix.iml" />
     </modules>
   </component>
 </project>
